@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Mushtaque Ali  
 
-🚀 **Software Engineer | Full-Stack Web Application Developer**  
+💻 **Software Engineer | Full-Stack Web Application Developer**  
 📍 Karachi, Pakistan  
 
 ---
 
-## 👨‍💻 About Me  
+## 🧑‍💻 About Me  
 I am an enthusiastic **Full-Stack Web Application Developer** with hands-on experience in **ASP.NET, PHP, and React Native**.  
 I enjoy building scalable web applications that provide smooth user experiences while following best practices in software development.  
 
-Currently pursuing my **BE in Software Engineering** at **Iqra University, Karachi** (Enrolled: 2022).  
+🎓 Currently pursuing my **BE in Software Engineering** at **Iqra University, Karachi** (Enrolled: 2022).  
 
 ---
 
@@ -41,27 +41,26 @@ Currently pursuing my **BE in Software Engineering** at **Iqra University, Karac
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![SDLC](https://img.shields.io/badge/SDLC-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)  
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)  
- 
 
 ---
 
 ## 💼 Experience  
 
-### Web Application Developer / Junior Software Engineer  
+### 🖥️ Web Application Developer / Junior Software Engineer  
 📍 Karachi, Pakistan  
 
-- Developed and deployed **responsive web applications** using **ASP.NET** and **PHP**.  
-- Built **intuitive front-end interfaces** with React Native, Bootstrap, Materialize CSS, and Tailwind CSS.  
-- Ensured **cross-browser compatibility** and **mobile responsiveness**.  
-- Applied **SDLC principles** from planning and design to testing and deployment.  
-- Resolved critical bugs, optimized performance, and delivered user-centric features.  
-- Collaborated with teams and clients to design, refine, and ship solutions.  
+- 🚀 Developed and deployed **responsive web applications** using **ASP.NET** and **PHP**.  
+- 🎨 Built **intuitive front-end interfaces** with React Native, Bootstrap, Materialize CSS, and Tailwind CSS.  
+- 🌐 Ensured **cross-browser compatibility** and **mobile responsiveness**.  
+- 📈 Applied **SDLC principles** from planning and design to testing and deployment.  
+- 🛠️ Resolved critical bugs, optimized performance, and delivered user-centric features.  
+- 🤝 Collaborated with teams and clients to design, refine, and ship solutions.  
 
 ---
 
 ## 🎓 Education  
 
-- **BE Software Engineering (In Progress)**  
+- 🎓 **BE Software Engineering (In Progress)**  
   *Iqra University, Karachi*  
   Enrolled: 2022  
 
@@ -69,9 +68,9 @@ Currently pursuing my **BE in Software Engineering** at **Iqra University, Karac
 
 ## 🌍 Languages  
 
-- English  
-- Urdu  
-- Sindhi  
+- 🇬🇧 English  
+- 🇵🇰 Urdu  
+- 🏳️ Sindhi  
 
 ---
 
